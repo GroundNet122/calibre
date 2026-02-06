@@ -2,7 +2,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" height="200" width="200"/>
 
-calibre is an e-book manager. It can view, convert, edit and catalog e-books 
+calibre is an e-book manager. It can view, convert, edit and catalog e-book
 in all of the major e-book formats. It can also talk to e-book reader 
 devices. It can go out to the internet and fetch metadata for your books. 
 It can download newspapers and convert them into e-books for convenient 
